@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header article {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header article ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header article ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.herobanner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -105,17 +105,17 @@ p {
     background-color: #2589bd;
 }
 /* Condensed classes to reduce duplicate elements */
-.benefit-lead {
+.breakdown {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.breakdown h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.breakdown img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -128,6 +128,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
