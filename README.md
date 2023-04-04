@@ -15,3 +15,6 @@
 
 ## Credits
 * The source code is from the Columbia Fullstack Web Development Coding Bootcamp.
+
+## Mock-up
+<img src="./assets/images/mock-up.png">
