@@ -1,7 +1,7 @@
 # horiseon-refactor
 
 ## Description
-* This refactor is to consolidate any excess elements/selectors, as well as improve accessibility through more clear image alt texts and class/id titles.
+* This refactor is to consolidate any excess elements/selectors, as well as improve accessibility through more clear image alt texts, class/id titles, and semantic HTML elements.
 
 ## Acceptance Criteria
 * Redundant selectors are consolidated and removed.
